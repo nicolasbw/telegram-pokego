@@ -6,6 +6,7 @@ pull useful information from the screenshot.
 
 # Running The Bot
 
+needs python 3
 ```
 cd telegram-pokego
 pip install -r requirements.txt --upgrade
